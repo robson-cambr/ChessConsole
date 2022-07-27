@@ -1,4 +1,4 @@
-﻿namespace ChessConsole112376152376521637
+﻿namespace ChessConsole
 {
     class ChessBoard
     {
